@@ -1,7 +1,3 @@
-<a href="https://github.com/HackDevTranscend/template-dot-github/generate">
-  <img src="https://img.shields.io/badge/use%20this-template-blue?logo=github">
-</a>
-
 # .github
 
 GitHub central configuration repository
